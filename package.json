@@ -1,0 +1,25 @@
+{
+  "name": "catbotjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon catbot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.7.2",
+    "axios": "^0.24.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.3.1",
+    "lavacord": "^1.1.9",
+    "lavalink": "^2.11.0",
+    "opusscript": "^0.0.8",
+    "shelljs": "^0.8.4",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
