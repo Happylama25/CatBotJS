@@ -1,0 +1,16 @@
+{
+	"token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+	"prefix": "$",
+	"clientId": "XXXXXXXXXX",
+	"guildId": "XXXXXXXXXX",
+
+	"nodes": [
+		{
+			"id": "1",
+			"host": "localhost",
+			"port": "2333",
+			"password": "password123"
+		}
+
+	]
+}
